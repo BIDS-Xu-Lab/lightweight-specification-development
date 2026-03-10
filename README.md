@@ -1,7 +1,7 @@
 # Lightweight Specification-driven Development
 
 <p align="center">
-  <img src="figure/LSD.png" width="500">
+  <img src="figure/LSD.png" width="400">
 </p>
 
 This repository contains the lightweight specifications, prompts, and example implementations used in the study:
