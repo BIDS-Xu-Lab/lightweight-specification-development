@@ -29,6 +29,8 @@ These specifications are then used by coding agents to generate software impleme
 
 ## Lightweight Specifications
 
+Here's some example lightweight specifications for demonstration purpose. The generated code is what Claude Code with Opus 4.6 generated. Based on our testings, usually the inital run may generate a workable version, but still more efforts are needed to ensure the tools are user-friendly or meet all task requirements. Please use with caution and make changes according to your own tasks.
+
 - [OMOP Patient Viewer](./specifications/omop-patient-viewer.md), [generated code](https://github.com/BIDS-Xu-Lab/omop-patient-viewer)
 - [Text Annotation Concept Mapping](./specifications/text-annotation-concept-mapping-tool.md), [generated code](https://github.com/BIDS-Xu-Lab/blu-lite)
 - [Text Embedding Pipeline](./specifications/text-embedding-pipeline.md), [generated code](https://github.com/BIDS-Xu-Lab/simple-text-embedding-pipeline)
