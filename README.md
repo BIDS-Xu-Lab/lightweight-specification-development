@@ -33,6 +33,7 @@ Here's some example lightweight specifications for demonstration purpose. The ge
 
 - [OMOP Patient Viewer](./specifications/omop-patient-viewer.md), [generated code](https://github.com/BIDS-Xu-Lab/omop-patient-viewer)
 - [Text Annotation Concept Mapping](./specifications/text-annotation-concept-mapping-tool.md), [generated code](https://github.com/BIDS-Xu-Lab/blu-lite)
+- [Document Labeling Tool](./specifications/quick-annotation-with-db.md), source code is under review
 - [Text Embedding Pipeline](./specifications/text-embedding-pipeline.md), [generated code](https://github.com/BIDS-Xu-Lab/simple-text-embedding-pipeline)
 
 
