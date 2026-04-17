@@ -37,6 +37,7 @@ According to our experience, you can write in any language to describe your task
 - [Text Annotation Concept Mapping](./specifications/text-annotation-concept-mapping-tool.md), [generated code](https://github.com/BIDS-Xu-Lab/blu-lite)
 - [Document Labeling Tool](./specifications/quick-annotation-with-db.md), source code is under review
 - [Text Embedding Pipeline](./specifications/text-embedding-pipeline.md), [generated code](https://github.com/BIDS-Xu-Lab/simple-text-embedding-pipeline)
+- [COVID19 Data Index](./specifications/covid19-data-index.md), [generated code](https://github.com/BIDS-Xu-Lab/covid19-data-index). This is an old example with iterative refinement. The website is available at https://www.covid19dataindex.org/
 
 
 # How to Use?
