@@ -33,10 +33,10 @@ Here's some example lightweight specifications for demonstration purpose. The ge
 
 According to our experience, you can write in any language to describe your task. The format does not really matter; it is mainly for ourselves to review and reference.
 
-- [OMOP Patient Viewer](./specifications/omop-patient-viewer.md), [generated code](https://github.com/BIDS-Xu-Lab/omop-patient-viewer)
-- [Text Annotation Concept Mapping](./specifications/text-annotation-concept-mapping-tool.md), [generated code](https://github.com/BIDS-Xu-Lab/blu-lite)
-- [Document Labeling Tool](./specifications/quick-annotation-with-db.md), source code is under review
-- [Text Embedding Pipeline](./specifications/text-embedding-pipeline.md), [generated code](https://github.com/BIDS-Xu-Lab/simple-text-embedding-pipeline)
+- [OMOP Patient Viewer](./specifications/omop-patient-viewer.md), [generated code](https://github.com/BIDS-Xu-Lab/omop-patient-viewer). A TUI-based tool for viewing OMOP format patient data in CSV files.
+- [Text Annotation Concept Mapping](./specifications/text-annotation-concept-mapping-tool.md), [generated code](https://github.com/BIDS-Xu-Lab/blu-lite). A tool for mapping concepts and text annotation.
+- [Document Labeling Tool](./specifications/quick-annotation-with-db.md), [source code](https://github.com/Flowerfan/annotation_web). A tool for helping quick document annotation.
+- [Text Embedding Pipeline](./specifications/text-embedding-pipeline.md), [generated code](https://github.com/BIDS-Xu-Lab/simple-text-embedding-pipeline). A script tool for generating text embeddings.
 - [COVID19 Data Index](./specifications/covid19-data-index.md), [generated code](https://github.com/BIDS-Xu-Lab/covid19-data-index). This is an old example with iterative refinement. The website is available at https://www.covid19dataindex.org/
 
 
