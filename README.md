@@ -8,6 +8,8 @@ This repository contains the lightweight specifications, prompts, and example im
 
 **"Leveraging Lightweight Specifications and Coding Agents to Develop Software Tools for Biomedical Data Analysis Workflows."**
 
+Presentation at AMIA 2026 Annual Symposium: [Goolge Slide](https://docs.google.com/presentation/d/1zy3tfBdLZ81BIQZBqat4E5UHiCguqEOKuCoBgSzdOkU/edit?usp=sharing)
+
 ---
 
 ## Overview
